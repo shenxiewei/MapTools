@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MapTools_Example' do
+  pod 'MapTools', :path => '../'
+
+  target 'MapTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

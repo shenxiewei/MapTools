@@ -1,0 +1,16 @@
+PODS:
+  - MapTools (0.1.0)
+
+DEPENDENCIES:
+  - MapTools (from `../`)
+
+EXTERNAL SOURCES:
+  MapTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MapTools: b5d810290e0e53f3e38251485b3671fcb20be533
+
+PODFILE CHECKSUM: ffd21c1527c25a5bf490d4ff1e43da2be98aa5be
+
+COCOAPODS: 1.6.1
